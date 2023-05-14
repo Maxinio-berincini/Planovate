@@ -1,1 +1,3 @@
-Licensed under CC-BY 3.0 by "Poly by Google" (https://poly.google.com/user/4aEd8rQgKu2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7900d755d87472e7428ce282cf9714fb47f541f86d40604dc1dc935c65aa23fa
+size 87

@@ -1,26 +1,3 @@
-import 'package:flutter/material.dart';
-
-
-class Style {
-
-  static const TitleFont = TextStyle(
-    //fontFamily: '',
-    fontSize: 25,
-    color: Colors.black,
-  );
-  static const FlowingTextFont = TextStyle(
-    //fontFamily: '',
-    fontSize: 16,
-    color: Colors.black,
-  );
-  static const ProfileFont = TextStyle(
-    //fontFamily: '',
-    fontSize: 20,
-    color: Colors.black,
-  );
-
-
-
-
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e71a633ee919313953812231677722c73c5101d728ee502bf3826b4ea334b12
+size 395

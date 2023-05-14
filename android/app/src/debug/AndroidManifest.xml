@@ -1,7 +1,3 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ch.berincini.planovate.planovate">
-    <!-- Flutter needs it to communicate with the running application
-         to allow setting breakpoints, to provide hot reload, etc.
-    -->
-    <uses-permission android:name="android.permission.INTERNET"/>
-</manifest>
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb44eb297f5001012d62d91ccc188259db5c26eadb4990dbc5a17d185dd9c3a2
+size 340
