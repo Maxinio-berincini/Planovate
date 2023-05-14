@@ -9,7 +9,7 @@ Flutter ist opensource Framework für die Entwicklung von Platformübergreifende
 ## Links zur App
 
 ### Andoid
-[Download APK](https://docs.flutter.dev/get-started/install/](https://github.com/Maxinio-berincini/Planovate/raw/master/apk/Planovate_base.apk) "Download APK")
+[Download APK](https://github.com/Maxinio-berincini/Planovate/raw/master/apk/Planovate_base.apk) "Download APK")
 
 ## Aufbau der App
 
